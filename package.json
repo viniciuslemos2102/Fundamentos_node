@@ -1,0 +1,13 @@
+{
+  "name": "fundamentos node",
+  "packageManager": "yarn@3.3.1",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  }
+}
